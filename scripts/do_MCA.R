@@ -2,6 +2,8 @@
 # see this article:http://www.gastonsanchez.com/visually-enforced/how-to/2012/10/13/MCA-in-R/
 
 
+# https://ucd-cws.github.io/eflow-species/huc_region_groups_neighbors.html
+
 # LIBRARIES ---------------------------------------------------------------
 
 library(FactoMineR)
